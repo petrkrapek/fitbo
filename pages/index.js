@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Vítejte na provizorních stránkách FITBO.CZ" />
         <p className="description">
-          Vzhledem k tehcnickým problémům došlo k výpadku našeho e-shopu. Vlivem této situace mohlo dojít k potíží s objednávkami. Pokud se vás tento problém týka, obraťte se na <b>objednavky@fitbo.cz</b>. Situaci s objednávkou vyčešíme do 24 hodin.
+          Vzhledem k tehcnickým problémům došlo k výpadku našeho e-shopu. Vlivem této situace mohlo dojít k potíží s objednávkami.<br>Pokud se vás tento problém týka, obraťte se na <b>objednavky@fitbo.cz</b>.<br>Situaci s objednávkou vyčešíme do 24 hodin.
         </p>
       </main>
 
