@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Vítejte na provizorních stránkách FITBO.CZ" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Vzhledem k tehcnickým problémům došlo k výpadku našeho e-shopu. Vlivem technických problémů mohlo dojít k potíží s objednávkami. Pokud se vás tento problém týka, obraťte se na <code>objednavky@fitbo.cz</code>. Situaci s objednávkou vyčešíme do 24 hodin ke spokojenosti.
         </p>
       </main>
 
